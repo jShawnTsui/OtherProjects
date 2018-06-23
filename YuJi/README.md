@@ -1,4 +1,4 @@
-# Processing Painting Code
+# Processing3 Painting Code
 
 After running this project, it generates this image:
 <p align="center">
