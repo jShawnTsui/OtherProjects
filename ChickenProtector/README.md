@@ -1,7 +1,7 @@
 # Chicken Protector
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jShawnTsui/OtherProjects/master/ChickenProtector/ScreenShot.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/jShawnTsui/OtherProjects/master/ChickenProtector/ScreenShot.png" width="500"/>
 </p>
 
 ## Description: 
