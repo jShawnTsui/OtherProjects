@@ -390,7 +390,7 @@ void drawThrone(){
 // Draw the signature
 void drawSignature(){
   PFont myFont; 
-  myFont = createFont("STXingkai-SC-Bold", 15);  textFont(myFont); 
+  myFont = createFont("STXingkaiSC-Bold", 15);  textFont(myFont); 
   fill(255, 0 , 0); 
   text("Xiangyang Cui", 130, 270);
 }
