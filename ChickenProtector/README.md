@@ -1,4 +1,9 @@
 # Chicken Protector
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jShawnTsui/OtherProjects/master/ChickenProtector/ScreenShot.png" width="350"/>
+</p>
+
 ## Description: 
  * Users have to protect chicken from eagles.  
  * The original state: there only one chick and 0 score and 10 bullets at the beginning.  
