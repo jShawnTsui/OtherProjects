@@ -11,6 +11,16 @@
 * Since Weibo web pages use JavaScript functions to load content, the traditional request module doesn't work. But Selenium won't scrap a web page until the condition you set becomes true.
 * It's time-consuming, so next time, I properly use Java thread pool to implement this program.
 
+## Result:
+
+<p align="center">
+  <img src="https://github.com/jShawnTsui/OtherProjects/blob/master/WeiboScraper/weibo_list.jpg" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/jShawnTsui/OtherProjects/blob/master/WeiboScraper/weibo_photo.jpg" width="500"/>
+</p>
+
 ## Notice:  
 * I did this project when I was a volunteer in World Well-Being Project at the University of Pennsylvania.  
 * I only scrapped users' public information.
